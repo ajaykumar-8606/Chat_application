@@ -40,7 +40,7 @@ A modern, responsive, real-time messaging web application built with the **MERN*
 ## 📁 Project Structure
 
 ```text
-Chat_application/
+PulseChat/
 ├── backend/
 │   ├── config/
 │   │   └── database.js          # MongoDB connection handler
@@ -102,8 +102,8 @@ Chat_application/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ajaykumar4mf/Chat_application.git
-cd Chat_application
+git clone https://github.com/ajaykumar-8606/PulseChat.git
+cd PulseChat
 ```
 
 ---
